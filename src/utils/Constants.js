@@ -1,4 +1,4 @@
-import abi from "./LazyNFT.json";
+import abi from "./MyNFT.json";
 import { ethers } from "ethers";
 
 export const Abi = abi.abi;
