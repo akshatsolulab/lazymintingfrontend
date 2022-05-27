@@ -9,6 +9,25 @@ prettier-plugin-solidity): code formatter
 
 This will be the front end UI of the Lazyminting NFT market place and it will be responsible for the transactions of vouchers and NFTS to the users.
 
+### Pre Requisites
+
+Before running any command, make sure to install dependencies:
+
+```sh
+$ npm install
+```
+
+### Starting the project
+```sh
+$ npm start
+```
+
+"http://localhost:4000/lazyApi/"
+
+it will open in your browser in the localhost with 4000 port.
+
+
+
 ### Screenshots
 
 # The Main Dashboard
@@ -53,26 +72,7 @@ This will be the front end UI of the Lazyminting NFT market place and it will be
 # Dashboard look with multiple NFTs listed
 <img width="1440" alt="Screenshot 2022-05-27 at 11 37 12 AM" src="https://user-images.githubusercontent.com/86094155/170643491-a2442792-2f88-457a-8da8-39a3bcce2a5e.png">
 
-
-### Pre Requisites
-
-Before running any command, make sure to install dependencies:
-
-```sh
-$ npm install
-```
-
-### Starting the project
-```sh
-$ npm start
-```
-
-"http://localhost:4000/lazyApi/"
-
-it will open in your browser in the localhost with 4000 port.
-
 ### Added plugins
-
 - React Dom
 - tailwind.css
 
