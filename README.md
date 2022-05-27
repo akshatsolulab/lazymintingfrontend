@@ -43,7 +43,8 @@ it will open in your browser in the localhost with 4000 port.
 <img width="1440" alt="Screenshot 2022-05-27 at 11 35 28 AM" src="https://user-images.githubusercontent.com/86094155/170642281-24fb72a3-53b6-4d55-8f48-f7e02fcf29f8.png">
 
 # Checking the wallet balance
-<img width="1440" alt="Screenshot 2022-05-27 at 11 35 49 AM" src="https://user-images.githubusercontent.com/86094155/170642390-983cb726-11a4-4213-9183-1c2ee6518e8a.png">
+<img width="1440" alt="Screenshot 2022-05-27 at 12 07 33 PM" src="https://user-images.githubusercontent.com/86094155/170644790-abe6c691-be95-458b-b751-ae4a4bb3c9b2.png">
+
 
 # Generting a NFT
 <img width="1440" alt="Screenshot 2022-05-27 at 11 36 21 AM" src="https://user-images.githubusercontent.com/86094155/170642486-37df424c-f275-4c68-b420-632b494afa65.png">
