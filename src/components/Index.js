@@ -19,13 +19,13 @@ export const Index = () => {
 			{Data.map((item) => {
 				return (
 					<div className="bg-green-100 ... shadow-lg " key={item.tokenId}>
+						<div className="text-gray-900  text-base"> Token ID: {item.tokenId}</div>
 						<img className="w-sm object-fill h-48 w-full " src={item.uri} alt="" />
-						<div className="font-bold text-xl mb-2">Price:{item.minPrice} Ether</div>	
+						<div className="font-bold text-xl mb-2">Price:{item.minPrice} Ether</div>
 						<Link to={`/views/${item.tokenId}`}>
 							<button className="bg-red-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
 								View More
 							</button>
-							<div className="text-gray-900  text-bold"> Token ID: {item.tokenId}</div>
 						</Link>
 					</div>
 				);
